@@ -28,7 +28,7 @@ This dashboard focuses on the following key performance indicators (KPIs):
 
 ---
 ## 📊 Dashboard Preview
-Here's a snapshot of the Blinkit Sales Dashboard:
+
 ![Screenshot 2025-03-24 153447](https://github.com/user-attachments/assets/2f9d93df-62db-4193-844f-68e47625ab1f)
 
 
