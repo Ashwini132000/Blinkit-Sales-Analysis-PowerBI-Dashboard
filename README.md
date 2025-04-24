@@ -21,10 +21,10 @@ The main goal of this dashboard is to analyze Blinkit’s sales data to:
 
 This dashboard focuses on the following key performance indicators (KPIs):  
 
-1. **Total Sales** – Total revenue from all products sold.  
-2. **Average Sales per Item** – Average revenue generated per sale.  
-3. **Total Number of Items** – Total count of items sold across all outlets.  
-4. **Average Rating** – The mean customer rating for sold items.  
+1. **Total Sales** – The overall revenue generated from all items sold.
+2. **Average Sales** – The average revenue per sale.
+3. **Number of Items** – The total count of different items sold.
+4. **Average Rating** – The average customer rating for items sold. 
 
 ---
 ## 🖼️ Dashboard Preview
