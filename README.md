@@ -1,5 +1,5 @@
 # 🚀 Blinkit Sales Analysis - Power BI Dashboard  
-📊 Welcome to the BlinKIT Sales Dashboard! This interactive Power BI dashboard offers a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and product distribution. As India’s leading “last-minute app” for groceries and convenience items, this dashboard helps stakeholders make data-driven decisions by exploring sales patterns, outlet efficiencies, and customer insights.
+📊 Welcome to the Blinkit Sales Dashboard! This interactive Power BI dashboard offers a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and product distribution. As India’s leading “last-minute app” for groceries and convenience items, this dashboard helps stakeholders make data-driven decisions by exploring sales patterns, outlet efficiencies, and customer insights.
 
 ## 📌 Project Overview  
 This **Power BI Dashboard** provides an in-depth analysis of **Blinkit’s** sales performance, customer satisfaction, and inventory distribution. The dashboard helps stakeholders gain actionable insights into outlet efficiency, product distribution, and customer preferences.  
