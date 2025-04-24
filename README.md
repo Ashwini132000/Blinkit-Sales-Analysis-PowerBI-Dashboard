@@ -29,7 +29,7 @@ This dashboard focuses on the following key performance indicators (KPIs):
 ---
 ## 📊 Dashboard Preview
 
-![![Blinkit Dashboard New](https://github.com/user-attachments/assets/6fa6e646-dfd3-49bf-a976-5ffe7f3a377d)
+![Blinkit Dashboard New](https://github.com/user-attachments/assets/6fa6e646-dfd3-49bf-a976-5ffe7f3a377d)
 
 
 
