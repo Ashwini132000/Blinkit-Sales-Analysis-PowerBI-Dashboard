@@ -29,7 +29,7 @@ This dashboard focuses on the following key performance indicators (KPIs):
 ---
 ## 📊 Dashboard Preview
 
-![Screenshot 2025-03-24 153447](https://github.com/user-attachments/assets/2f9d93df-62db-4193-844f-68e47625ab1f)
+![![Blinkit Dashboard New](https://github.com/user-attachments/assets/6fa6e646-dfd3-49bf-a976-5ffe7f3a377d)
 
 
 
@@ -77,15 +77,15 @@ This dashboard focuses on the following key performance indicators (KPIs):
 
 ### 6. 📊 **Outlet Growth Over Time**
    - **Objective:** Track the growth of outlet establishments over time (2012–2022).  
-   - **Chart Type:** Line Chart  
+   - **Chart Type:** **Line Chart**
 
 ### 7. 📍 **Sales by Outlet Location**  
    - **Objective:** Assess the geographic distribution of sales across outlet locations.  
-   - **Chart Type:** **Pie Chart** (Customized for better clarity).  
+   - **Chart Type:** **Funnel Chart**
 
 ### 8. 📊 **All Metrics by Outlet Type**  
    - **Objective:** Provide a holistic view of performance metrics across outlet types.  
-   - **Chart Type:** Matrix Card  
+   - **Chart Type:** **Matrix Card**
 
 ---
 
