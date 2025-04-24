@@ -1,4 +1,4 @@
-# 🚀 Blinkit Sales Analysis - Power BI Dashboard  
+# 🛒 Blinkit Sales Analysis - Power BI Dashboard  
 📊 Welcome to the Blinkit Sales Dashboard! This interactive Power BI dashboard offers a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and product distribution. As India’s leading “last-minute app” for groceries and convenience items, this dashboard helps stakeholders make data-driven decisions by exploring sales patterns, outlet efficiencies, and customer insights.
 
 ## 📌 Project Overview  
@@ -8,7 +8,7 @@ This project is designed for **educational purposes** and demonstrates data anal
 
 ---
 
-## 📢 Business Objective  
+## 🧭 Business Objective  
 The main goal of this dashboard is to analyze Blinkit’s sales data to:  
 - Evaluate and compare total and average sales performance across various outlet locations and sizes. 
 - Understand customer satisfaction by analyzing ratings and feedback.  
@@ -27,7 +27,7 @@ This dashboard focuses on the following key performance indicators (KPIs):
 4. **Average Rating** – The mean customer rating for sold items.  
 
 ---
-## 📊 Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ![Blinkit Dashboard New](https://github.com/user-attachments/assets/6fa6e646-dfd3-49bf-a976-5ffe7f3a377d)
 
